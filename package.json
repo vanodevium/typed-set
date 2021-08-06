@@ -1,0 +1,29 @@
+{
+  "name": "typed-set",
+  "version": "0.1.0",
+  "description": "Typed Set with no dependencies",
+  "keywords": [
+    "set",
+    "sets",
+    "type",
+    "typed",
+    "ds",
+    "data structure"
+  ],
+  "homepage": "https://github.com/webdevium/typed-set",
+  "bugs": "https://github.com/webdevium/typed-set/issues",
+  "repository": "https://github.com/webdevium/typed-set",
+  "license": "MIT",
+  "author": {
+    "name": "Vano Devium",
+    "email": "vano@devium.me",
+    "url": "https://www.devium.me"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.2.3"
+  }
+}
