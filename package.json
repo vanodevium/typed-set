@@ -1,7 +1,7 @@
 {
   "name": "typed-set",
-  "version": "0.1.0",
-  "description": "Typed Set with no dependencies",
+  "version": "0.2.0",
+  "description": "Typed Set structure with no dependencies",
   "keywords": [
     "set",
     "sets",
@@ -10,9 +10,9 @@
     "ds",
     "data structure"
   ],
-  "homepage": "https://github.com/webdevium/typed-set",
-  "bugs": "https://github.com/webdevium/typed-set/issues",
-  "repository": "https://github.com/webdevium/typed-set",
+  "homepage": "https://github.com/vanodevium/typed-set",
+  "bugs": "https://github.com/vanodevium/typed-set/issues",
+  "repository": "https://github.com/vanodevium/typed-set",
   "license": "MIT",
   "author": {
     "name": "Vano Devium",
@@ -24,6 +24,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^27.2.3"
+    "@jest/globals": "29.6.1",
+    "jest": "29.6.1"
   }
 }

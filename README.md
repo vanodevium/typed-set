@@ -1,4 +1,7 @@
-# typed-set [![NPM version](https://img.shields.io/npm/v/typed-set.svg?style=flat)](https://www.npmjs.com/package/typed-set)
+# typed-set 
+
+[![NPM version](https://img.shields.io/npm/v/typed-set.svg?style=flat)](https://www.npmjs.com/package/typed-set)
+![Build Status](https://img.shields.io/github/actions/workflow/status/vanodevium/typed-set/ci.yaml)
 
 ## Motivation
 Unlike Typescript, type checking will be done at runtime.
